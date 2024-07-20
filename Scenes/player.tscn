@@ -181,7 +181,7 @@ position = Vector2(0, -12)
 sprite_frames = SubResource("SpriteFrames_vway0")
 animation = &"Jump"
 autoplay = "Idle"
-frame_progress = 0.391113
+frame_progress = 0.0406816
 
 [node name="RayCastRight" type="RayCast2D" parent="AnimatedSprite2D"]
 position = Vector2(0, 7)
